@@ -1,0 +1,11 @@
+1.clasa visitor e visitor pattern
+    ce face:definieste metode, care sunt implementate de subclasele ei, in care acelea pot implementa aceste metode pentru
+    a printa info despre obiecte
+
+2.clasa Mediator mediator pattern
+    ce face  Este un mediator dintre clasa carte si revista pentru a le permite sa adauge sau sa stearga din sistem
+3.clasa command
+    ce face:este o clasa abstracata in care este implementata de catre subclasele ei, pentru a putea controla cartile si revistele din sistem
+4. Memento pattern
+    ce face 
+        reprezinta starea sistemului librariei la un timp anumit, iar clasa MementoCaretaker face store la aceste date despre stari
